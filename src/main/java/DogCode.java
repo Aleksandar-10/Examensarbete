@@ -11,13 +11,13 @@ public class DogCode {
                 return "SK02";
 
             case "poodle":
-                return "WRONG"; // intentional bug
+                return "SK03";
 
             case "beagle":
                 return "SK04";
 
             case "rottweiler":
-                return "WRONG"; // intentional bug
+                return "SK05";
 
             case "german shepherd":
                 return "SK06";
@@ -44,7 +44,7 @@ public class DogCode {
                 return "Bulldog";
 
             case "SK03":
-                return "WRONG"; // intentional bug
+                return "Poodle";
 
             case "SK04":
                 return "Beagle";
