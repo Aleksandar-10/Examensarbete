@@ -23,7 +23,7 @@ public class DogCode {
                 return "SK06";
 
             case "husky":
-                return "WRONG"; // intentional bug
+                return "SK07";
 
             case "dalmatian":
                 return "SK08";
@@ -50,7 +50,7 @@ public class DogCode {
                 return "Beagle";
 
             case "SK05":
-                return "WRONG"; // intentional bug
+                return "Rottweiler";
 
             case "SK06":
                 return "German Shepherd";

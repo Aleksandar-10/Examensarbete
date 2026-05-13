@@ -34,7 +34,7 @@ class DogCodeTest {
     }
 
 
-    // FAILING TESTS (intentional)
+
 
     @Test
     void testPoodleCode() {
